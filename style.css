@@ -24,6 +24,6 @@ body{
 .time_session{
     font-size: 30px;
     position: absolute;
-    right: 0;
+    right: -2em;
     bottom: 0;
 }
