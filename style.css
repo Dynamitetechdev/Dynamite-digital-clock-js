@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: "montserrat";
+    font-weight: lighter;
+}
+
+body{
+    background-color: #000000;
+    color: #fff;
+}
+.watch{
+    display: flex;
+    font-size: 10rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.time_divider{
+    padding: 25px 0;
+}
+.time_session{
+    font-size: 30px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
